@@ -1,0 +1,36 @@
+/* style.css */
+
+body {
+  font: 16px/1.5 sans-serif;
+}
+
+div {
+  background-color: rgb(242,87,30);
+  width: 200px;
+  height: 200px;
+}
+
+section {
+  width: 600px;
+  border: 1px solid #222;
+  margin-bottom: 20px;
+}
+
+#box01 {
+  float: left;
+  margin-right: 20px;
+}
+
+#box02 {
+  float: right;
+}
+
+#box03 {
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.clear-me {
+  clear: both;
+}
